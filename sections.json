@@ -1,0 +1,17 @@
+[
+  {
+    "name": "القنوات الرياضية بث مباشر",
+    "icon_url": "https://img.icons8.com/color/96/sports.png",
+    "m3u_url": "https://raw.githubusercontent.com/mohammedmasrour555/hhh/refs/heads/main/index.m3u8"
+  },
+  {
+    "name": "باقة الأفلام والمسلسلات",
+    "icon_url": "https://img.icons8.com/color/96/movie-projector.png",
+    "m3u_url": "https://raw.githubusercontent.com/mohammedmasrour555/hhh/refs/heads/main/index.m3u8"
+  },
+  {
+    "name": "قنوات وثائقية وقنوات أطفال",
+    "icon_url": "https://img.icons8.com/color/96/children.png",
+    "m3u_url": "https://raw.githubusercontent.com/mohammedmasrour555/hhh/refs/heads/main/index.m3u8"
+  }
+]
